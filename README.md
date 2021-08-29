@@ -5,7 +5,9 @@ VISD generally stands for **Veirisimilar Image Synthesis Dataset**, which is pro
 Sample datasets for scene text detection and recognition as described in the [paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.html)
 
 Detection:
+
 1K: [dropbox](https://www.dropbox.com/s/5hirb8eal44ek4d/1K.tar.gz?dl=0)
+
 10K: [dropbox](https://www.dropbox.com/s/fu49xa4vqxhtrwm/10K.tar.gz?dl=0)
 
 ## Annotation
