@@ -34,4 +34,4 @@ If you find this project helpful for your research, please cite the following pa
 ```
 
 ## CopyRight
-The dataset is created and released totally by the original authors. I just collected the download link and related information for followers' using, as searching `VISD` in Google may not direct people to the correct dataset download link.
+The dataset is created and released totally by the original authors. I just collected the download link and related information for followers' using, as searching `VISD` in Google may not direct people to the correct dataset download link, whereas VISD is a commonly cited name in many famous text detection papers.
