@@ -2,11 +2,11 @@
 VISD generally stands for **Veirisimilar Image Synthesis Dataset**, which is proposed and created by @fnzhan in paper: [ECCV'18: Verisimilar image synthesis for accurate detection and recognition of texts in scenes](https://openaccess.thecvf.com/content_ECCV_2018/html/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.html).
 
 ## Dataset Download
-Sample datasets for scene text detection and recognition as described in the [paper] (https://openaccess.thecvf.com/content_ECCV_2018/html/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.html)
+Sample datasets for scene text detection and recognition as described in the [paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Fangneng_Zhan_Verisimilar_Image_Synthesis_ECCV_2018_paper.html)
 
 Detection:
-1K: https://www.dropbox.com/s/5hirb8eal44ek4d/1K.tar.gz?dl=0
-10K: https://www.dropbox.com/s/fu49xa4vqxhtrwm/10K.tar.gz?dl=0
+1K: [dropbox](https://www.dropbox.com/s/5hirb8eal44ek4d/1K.tar.gz?dl=0)
+10K: [dropbox](https://www.dropbox.com/s/fu49xa4vqxhtrwm/10K.tar.gz?dl=0)
 
 ## Annotation
 The groundtruth are given in bounding box by 4 corner points like：
