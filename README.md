@@ -21,5 +21,17 @@ x3,y3
 hard
 ```
 
+# Citation
+If you find this project helpful for your research, please cite the following paper:
+```
+@article{fnzhan2018,
+  author  = {Fangneng Zhan, Shijian Lu and Chuhui Xue},
+  title   = {Verisimilar Image Synthesis for Accurate Detection and Recognition of Texts in Scenes},
+  journal = {ECCV},
+  pages   = {257-273},
+  year    = {2018}
+  }
+```
+
 ## CopyRight
 The dataset is created and released totally by the original authors. I just collected the download link and related information for followers' using, as searching `VISD` in Google may not direct people to the correct dataset download link.
